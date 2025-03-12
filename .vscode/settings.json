@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Basic_Multiplayer.sln"
+    "dotnet.defaultSolution": "basic-mp-chat-tcp.sln"
 }
